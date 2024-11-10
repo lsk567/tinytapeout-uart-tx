@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This design is a UART TX that sends "TINY\n".
+This design is a UART TX that sends ``TINY''.
 
 ## How to test
 
-Connect it to your serial receiver and see if "TINY\n" gets printed.
+Connect it to your serial receiver and see if ``TINY'' gets printed.
 
 ## External hardware
 
